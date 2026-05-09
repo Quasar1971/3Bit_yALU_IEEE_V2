@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     463557428446691329       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "3Bit_yALU_IEEE"      # Project title
+  title:        "3Bit_yALU_IEEE_V2"      # Project title
   author:       "Yousuf SH Mohammad"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A 3 bit ALU (multiplication, division, subtraction). It also allows for the switches, RST, and clock signals to pass to the output."      # One line description of what your project does
