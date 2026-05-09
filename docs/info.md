@@ -13,7 +13,7 @@ You have 8 switches and 8 outputs. The first three switches determine the first 
 
 ## How to test
 
-Let's go through an example where you would add two 3 bit numbers together. Flip the first three switches to the following bits 101, and the next three switches to 100. Make sure that the last 2 switches remain in there 00 state. Your output pins should have a signal that corresponds to the bit sequence 00001001. Congratulations! you just performed 5 + 4 (=9) in binary. You can keep your initial 6 switches as they are (two 3 bit numbers), and simply switch the mode of operation to multiplication (10), or any other mode, and instantly observe the change in output.
+Let's go through an example where you would add two 3 bit numbers together. Flip the first three switches to the following bits 101, and the next three switches to 100. Make sure that the last 2 switches remain in there 00 state. Your output pins should have a signal that corresponds to the bit sequence 00001001. Congratulations! you just performed 5 + 4 (=9) in binary. You can keep your initial 6 switches as they are (two 3 bit numbers), and simply switch the mode of operation to multiplication (01), or any other mode, and instantly observe the change in output.
 
 ## External hardware
 
