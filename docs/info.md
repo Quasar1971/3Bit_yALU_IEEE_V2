@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-You have 8 switches and 8 outputs. The first three switches determine the first 3 bit number, while the next three switches determine the second 3 bit number. the last two switches determine the mode for your ALU where 00 = addition, 01 = subtraction, 10 = multiplication. Note that the last mode (11), simply passes the switch, clock (10KHz), and reset signals to the output.
+You have 8 switches and 8 outputs. The first three switches determine the first 3 bit number, while the next three switches determine the second 3 bit number. the last two switches determine the mode for your ALU where 00 = addition, 10 = subtraction, 01 = multiplication. Note that the last mode (11), simply passes the switch, clock (10KHz), and reset signals to the output.
 
 ## How to test
 
